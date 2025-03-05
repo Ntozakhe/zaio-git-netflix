@@ -328,7 +328,7 @@ summary:hover {
 
 .footer ul li {
     color: rgba(255, 255, 255, 0.7);
-    text-decoration: underline;
+    
 
 }
 
@@ -344,11 +344,11 @@ summary:hover {
 
 
 
-/* .footer ul li:hover,
+.footer ul li:hover,
 .questions-title:hover {
     text-decoration: underline;
     cursor: pointer;
-} */
+}
 
 .footer-links {
     list-style-type: none;
@@ -372,6 +372,7 @@ summary:hover {
     padding: 0 10px;
     margin-top: 30px;
     border-radius: 3px;
+    cursor: pointer;
 }
 
 .language select {
